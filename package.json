@@ -1,0 +1,22 @@
+{
+  "name": "ejsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uddystyle/EJSDemo.git"
+  },
+  "author": "Tomohisa Uchida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uddystyle/EJSDemo/issues"
+  },
+  "homepage": "https://github.com/uddystyle/EJSDemo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
